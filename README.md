@@ -18,6 +18,3 @@
 * Spark
 * Kafka
 * Pyspark
-
-
-# PBDM_Project
